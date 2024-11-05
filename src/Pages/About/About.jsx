@@ -3,12 +3,12 @@ import { Helmet } from 'react-helmet';
 
 const testimonials = [
     {
-        name: 'Hardik Desai',
+        name: 'Arshlan Ali',
         role: 'Fronted Web Developer',
         content:
             'A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications. These websites typically provide templates for creating a resume.',
         avatar:
-            'https://avatars.githubusercontent.com/u/87645745?v=4',
+            'https://avatars.githubusercontent.com/arshlanali',
     }
 ];
 
@@ -95,8 +95,8 @@ export default function About() {
                 <meta name="robots" content="index, follow" />
                 <meta property="og:title" content="About Us - Resume Builder" />
                 <meta property="og:description" content="Learn more about the Resume Builder website and its mission to provide easy-to-use tools for creating professional resumes." />
-                <meta property="og:image" content="https://avatars.githubusercontent.com/u/87645745?v=4" />
-                <meta property="og:url" content="https://quick-resume.netlify.app/about" />
+                <meta property="og:image" content="https://avatars.githubusercontent.com/arshlanali" />
+                <meta property="og:url" content="https://craft-my-cv.vercel.app/" />
                 <meta property="og:type" content="website" />
             </Helmet>
             <Flex
