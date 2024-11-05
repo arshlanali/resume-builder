@@ -1,4 +1,4 @@
-# Contributing to Resume Builder
+<!--# Contributing to Resume Builder
 
 Welcome to Resume Builder! We appreciate your interest in contributing to our project. Whether you want to report a bug, suggest an improvement, or contribute code, please take a moment to read the following guidelines.
 
@@ -55,3 +55,4 @@ Our maintainers will review your pull request, provide feedback, and merge it on
 Thank you for your contributions!
 
 Resume Builder Team
+-->
